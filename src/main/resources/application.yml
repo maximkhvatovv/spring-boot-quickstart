@@ -1,0 +1,5 @@
+database:
+  props:
+    username: postgres
+    password: my-super-pass
+    driverName: org.postgresql.Driver
